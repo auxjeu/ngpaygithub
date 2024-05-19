@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "ppfbpay",
+    "n": "ang1003crud",
+    "prod": "ang1003crud"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
